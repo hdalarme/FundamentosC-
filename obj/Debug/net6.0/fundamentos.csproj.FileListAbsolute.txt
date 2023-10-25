@@ -1,0 +1,15 @@
+C:\Projetos\DIO\dotnet\fundamentos\bin\Debug\net6.0\fundamentos.exe
+C:\Projetos\DIO\dotnet\fundamentos\bin\Debug\net6.0\fundamentos.deps.json
+C:\Projetos\DIO\dotnet\fundamentos\bin\Debug\net6.0\fundamentos.runtimeconfig.json
+C:\Projetos\DIO\dotnet\fundamentos\bin\Debug\net6.0\fundamentos.dll
+C:\Projetos\DIO\dotnet\fundamentos\bin\Debug\net6.0\fundamentos.pdb
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.csproj.AssemblyReference.cache
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfoInputs.cache
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfo.cs
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.dll
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\refint\fundamentos.dll
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.pdb
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\fundamentos.genruntimeconfig.cache
+C:\Projetos\DIO\dotnet\fundamentos\obj\Debug\net6.0\ref\fundamentos.dll
